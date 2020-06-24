@@ -1,0 +1,6 @@
+C:\Users\aarora3\Pictures\Nuance\NewsPublisher\bin\Debug\NewsPublisher.exe.config
+C:\Users\aarora3\Pictures\Nuance\NewsPublisher\bin\Debug\NewsPublisher.exe
+C:\Users\aarora3\Pictures\Nuance\NewsPublisher\bin\Debug\NewsPublisher.pdb
+C:\Users\aarora3\Pictures\Nuance\NewsPublisher\obj\Debug\NewsPublisher.csprojAssemblyReference.cache
+C:\Users\aarora3\Pictures\Nuance\NewsPublisher\obj\Debug\NewsPublisher.exe
+C:\Users\aarora3\Pictures\Nuance\NewsPublisher\obj\Debug\NewsPublisher.pdb

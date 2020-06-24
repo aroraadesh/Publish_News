@@ -1,0 +1,16 @@
+C:\Users\aarora3\Pictures\Nuance\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\aarora3\Pictures\Nuance\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\aarora3\Pictures\Nuance\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\aarora3\Pictures\Nuance\UnitTest\bin\Debug\UnitTest.dll
+C:\Users\aarora3\Pictures\Nuance\UnitTest\bin\Debug\UnitTest.pdb
+C:\Users\aarora3\Pictures\Nuance\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\aarora3\Pictures\Nuance\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\aarora3\Pictures\Nuance\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\aarora3\Pictures\Nuance\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\aarora3\Pictures\Nuance\UnitTest\obj\Debug\UnitTest.csprojAssemblyReference.cache
+C:\Users\aarora3\Pictures\Nuance\UnitTest\obj\Debug\UnitTest.csproj.CopyComplete
+C:\Users\aarora3\Pictures\Nuance\UnitTest\obj\Debug\UnitTest.dll
+C:\Users\aarora3\Pictures\Nuance\UnitTest\obj\Debug\UnitTest.pdb
+C:\Users\aarora3\Pictures\Nuance\UnitTest\bin\Debug\NewsPublisher.exe
+C:\Users\aarora3\Pictures\Nuance\UnitTest\bin\Debug\NewsPublisher.pdb
+C:\Users\aarora3\Pictures\Nuance\UnitTest\bin\Debug\NewsPublisher.exe.config
